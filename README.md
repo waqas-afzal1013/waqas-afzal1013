@@ -21,7 +21,7 @@
 [![My Tools](https://skillicons.dev/icons?i=github,gitlab,git,postman,&figma,vscode,vscodium,bash,docker,powershell)](https://skillicons.dev)
 
 
-![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifraza1013&show_icons=true&theme=dark)
+![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=waqas-afzal1013&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifraza1013&theme=dark)
 
