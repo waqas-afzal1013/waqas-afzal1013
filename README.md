@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,python,flask,django,react,php,laravel,mongodb,mysql,firebase,redis,html,css,bootstrap,jquery)](https://skillicons.dev)
 
 ### Tools
-[![My Tools](https://skillicons.dev/icons?i=github,gitlab,git,postman,&figma,vscode,vscodium,bash,docker,powershell)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=github,gitlab,git,postman,aws,gcp,&figma,vscode,vscodium,bash,docker,powershell)](https://skillicons.dev)
 
 
 ![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=waqas-afzal1013&show_icons=true&theme=dark)
